@@ -59,7 +59,11 @@ Microsoft
 NVIDIA
 黄仁勋
 
+intel
 AMD
+
+合肥
+科技城市
 
 谷歌
 google
